@@ -9,5 +9,9 @@ namespace BusinessConsultingTool_ASP.NET.Models
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
         public string? Id { get; set; }
+
+        [BsonElement("yritys")]
+        [JsonPropertyName("yritys")]
+        public string Name { get; set; } = "Yrityksen nimi";
     }
 }
