@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessConsultingTool.DataAPI", "source\BusinessConsultingTool ASP.NET\BusinessConsultingTool.DataAPI.csproj", "{1818B51E-DEE3-4BE5-A9AC-D598707046B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessConsultingTool.DataAPI", "source\BusinessConsultingTool.DataAPI\BusinessConsultingTool.DataAPI.csproj", "{1818B51E-DEE3-4BE5-A9AC-D598707046B3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessConsultingTool.DataAPI.UnitTests", "tests\BusinessConsultingTool.DataAPI.UnitTests\BusinessConsultingTool.DataAPI.UnitTests.csproj", "{AE2A2BE1-1D46-49DF-BB7F-B6D5DA16818F}"
 EndProject
