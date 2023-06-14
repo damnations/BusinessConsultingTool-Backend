@@ -11,7 +11,7 @@ namespace BusinessConsultingTool_ASP.NET
             _configuration = configuration;
         }
 
-        public SomeMethod()
+        public string SomeMethod()
         {
             // retrieve App Service connection string
             var myConnString = _configuration.GetConnectionString("MONGODB_CONNECTION_STRING");
