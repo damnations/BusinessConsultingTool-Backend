@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 
-namespace BusinessConsultingTool_ASP.NET
+namespace BusinessConsultingTool_ASP.NET.DataAPI
 {
     public class GetConnString
     {

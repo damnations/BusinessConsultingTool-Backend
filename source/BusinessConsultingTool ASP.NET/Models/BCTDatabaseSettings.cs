@@ -1,4 +1,4 @@
-﻿namespace BusinessConsultingTool_ASP.NET.Models;
+﻿namespace BusinessConsultingTool_ASP.NET.DataAPI.Models;
 
 public class BCTDatabaseSettings
 {
