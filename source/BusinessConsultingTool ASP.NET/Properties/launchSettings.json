@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "BusinessConsultingTool_ASP.NET": {
+    "BusinessConsultingTool.DataAPI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

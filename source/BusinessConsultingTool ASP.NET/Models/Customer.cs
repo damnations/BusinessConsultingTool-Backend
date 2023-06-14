@@ -2,7 +2,7 @@
 using MongoDB.Bson.Serialization.Attributes;
 using System.Text.Json.Serialization;
 
-namespace BusinessConsultingTool_ASP.NET.DataAPI.Models
+namespace BusinessConsultingTool.DataAPI.Models
 {
     public class Customer
     {

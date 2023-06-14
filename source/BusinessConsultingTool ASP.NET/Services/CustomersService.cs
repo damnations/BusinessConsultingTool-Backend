@@ -1,8 +1,8 @@
-﻿using BusinessConsultingTool_ASP.NET.DataAPI.Models;
+﻿using BusinessConsultingTool.DataAPI.Models;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 
-namespace BusinessConsultingTool_ASP.NET.DataAPI.Services
+namespace BusinessConsultingTool.DataAPI.Services
 {
     public class CustomersService
     {

@@ -1,5 +1,5 @@
-using BusinessConsultingTool_ASP.NET.DataAPI.Models;
-using BusinessConsultingTool_ASP.NET.DataAPI.Services;
+using BusinessConsultingTool.DataAPI.Models;
+using BusinessConsultingTool.DataAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

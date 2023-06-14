@@ -1,8 +1,8 @@
-﻿using BusinessConsultingTool_ASP.NET.DataAPI.Models;
-using BusinessConsultingTool_ASP.NET.DataAPI.Services;
+﻿using BusinessConsultingTool.DataAPI.Models;
+using BusinessConsultingTool.DataAPI.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BusinessConsultingTool_ASP.NET.DataAPI.Controllers
+namespace BusinessConsultingTool.DataAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
