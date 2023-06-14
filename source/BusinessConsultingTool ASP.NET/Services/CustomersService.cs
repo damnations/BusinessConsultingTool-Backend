@@ -15,7 +15,7 @@ namespace BusinessConsultingTool_ASP.NET.Services
             _customerCollection = database.GetCollection<Customer>(bctDatabaseSettings.Value.CollectionName);
         }
 
-        public async Task<List<Customer>> GetAsync() { }
+        //public async Task<List<Customer>> GetAsync() { }
         public async Task CreateAsync(Customer newCustomer) { }
         public async Task AddToPlaylistAsync(string id, string movieId) { }
         public async Task DeleteAsync(string id) { }
